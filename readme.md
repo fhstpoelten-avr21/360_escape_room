@@ -1,5 +1,7 @@
-# Unity3D VR Lightbox
+# 360 Escape Room
 A 360 experience made in unity assisted by FH St. Poelten lectures
+![screenshot](Assets/Images/escape_room_target.jpg)
+
 
 ## Tools
 
